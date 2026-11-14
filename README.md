@@ -13,15 +13,5 @@ I'm a French developer working on PHP, Java, and learning JavaScript
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-```javascript
-const developer = {
-  name: "Fanou",
-  code: ["PHP", "Java", "JavaScript"],
-  status: "Toujours en train d'apprendre 🚀"
-};
-
-
-
-
 ### Stats 
 ![Visitor Count](https://komarev.com/ghpvc/?username=fbf-43&color=red)
