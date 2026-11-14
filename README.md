@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=180&section=header&text=Bienvenue%20sur%20mon%20Profil%20!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
 ### Hi 👋
 
 I'm a French developer working on PHP, Java, and learning JavaScript 
